@@ -2,7 +2,7 @@
 //nullable dataType
 //late
 void main() {
-  int a = 10; //data definition //non-nullable datatype
+  int a = 10;// //data definition //non-nullable datatype
 
   //int b = null; // This will give error
 
